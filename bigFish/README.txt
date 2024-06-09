@@ -9,3 +9,5 @@ activate the environment using: source new_env/bin/activate
 
 run: pip install -r requirements.txt to download dependencies
 
+run bertFish.ipynb interactively in a notebook environment by running: jupyter notebook
+and clicking in. 
