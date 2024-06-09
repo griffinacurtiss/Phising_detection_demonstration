@@ -7,13 +7,5 @@ it most simple to place it in the home directory: python3 -m venv new_env
 
 activate the environment using: source new_env/bin/activate
 
-run: pip3 install notebook
-   (in order to run ipython)
+run: pip install -r requirements.txt to download dependencies
 
-run the script
-
-then pip3 install every package which is missing. 
-
-I am working on a script to install all of the necessary dependencies, which will be available shortly.
-
-feel free to reach out at griffinacurtiss@gmail.com. make the subject bertFish.
